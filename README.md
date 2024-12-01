@@ -2,8 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/9ffdbe03-16de-4281-bf89-b82b79ee1b1d)
 
-- NO OVLIDES ACTIVAR EL SPI
-sudo raspi-config
+# NO OVLIDES ACTIVAR EL SPI
+
+# sudo raspi-config
+
 ![image](https://github.com/user-attachments/assets/e2989f8b-22d2-4e6c-ba2b-c174738a1eef)
 
 ![image](https://github.com/user-attachments/assets/f3b49b64-4089-4ef1-b303-1389e0855ddc)
