@@ -68,3 +68,10 @@ hdmi_mode=87                # Modo definido por el usuario
 
 hdmi_cvt=128 160 60 1 0 0 0 # Resolución personalizada: 128x160, 60Hz
 
+
+# Al final debe salir de esta manera.
+
+
+![image](https://github.com/user-attachments/assets/e0aebde2-1181-44e5-9aef-0059a7d4e453)
+
+
