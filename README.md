@@ -45,16 +45,26 @@ sudo nano /boot/config.txt
 # Añade esta línea al final del archivo:
 
 #Overlay del framebuffer personalizado
+
 dtoverlay=prajst77,debug=3
 
 #Configuración del framebuffer
+
 framebuffer_width=128       # Ancho de la pantalla ST7735
+
 framebuffer_height=160      # Alto de la pantalla ST7735
+
 framebuffer_depth=16        # Profundidad de color (16 bits recomendado para ST>
+
 framebuffer_ignore_alpha=1  # Ignorar canal alfa
 
 #Deshabilitar HDMI si no lo usas
+
 hdmi_force_hotplug=1        # Forzar salida HDMI (útil para pantallas no HDMI)
+
 hdmi_group=2                # Grupo de modo (2: DMT - para monitores)
+
 hdmi_mode=87                # Modo definido por el usuario
+
 hdmi_cvt=128 160 60 1 0 0 0 # Resolución personalizada: 128x160, 60Hz
+
