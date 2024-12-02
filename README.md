@@ -12,7 +12,7 @@
 
 ![image](https://github.com/user-attachments/assets/ce549e16-6860-4769-8e77-7c33aa1afaec)
 
-
+# Luego sudo reboot
 
 # 2. Descargar el archivo fuente: Asegúrate de que el archivo prajst77.dts esté disponible en tu directorio de trabajo. Si has clonado el repositorio, ya estará en la carpeta correspondiente.
 
